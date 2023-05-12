@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lmiguel1&label=Profile%20views&color=0e75b6&style=flat" alt="lmiguel1" /> </p>
 
-- 🌱 I’m currently learning **Spring, Postman, MySQL, MongoDB**
+- 🌱 I’m currently learning **Java, Spring, Postman, MySQL, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lmiguel1](https://github.com/lmiguel1)
 
-- 💬 Ask me about **Python, Java, OOP, Technology, Science**
+- 💬 Ask me about **Python, JavaScript OOP, Technology, Science**
 
 - 📫 How to reach me **miguel506.3@gmail.com**
 
