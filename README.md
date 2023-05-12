@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lmiguel1](https://github.com/lmiguel1)
 
-- 💬 Ask me about **Python, JavaScript OOP, Technology, Science**
+- 💬 Ask me about **Python, JavaScript, OOP, Technology, Science**
 
 - 📫 How to reach me **miguel506.3@gmail.com**
 
