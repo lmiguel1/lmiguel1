@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **miguel506.3@gmail.com**
 
-- ⚡ Fun fact **I'm learning Catalan and I love RC cars**
+- ⚡ Fun fact **Besides programming, I like metal, beer(lots of it), RC cars and Catalan language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
